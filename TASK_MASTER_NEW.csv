@@ -1,0 +1,4 @@
+﻿TASK_ID,TASK_TYPE,TASK_DESC,ACTIVE_FLAG,TASK_AREA,REC_INSERT_DTTM,REC_UPDATE_DTTM
+1,FILE_INGESTION,Bulk load all files from Sharepoint/S3 to Landing Layer(SF) of mROI,Y,FF_TO_LND,2024-02-26 05:07:00.544,
+2,DB_INGESTION,Load all the datasets from Snowflake Data Repos(Snowflake Source or Landing Layer) to Staging Layer of mROI,Y,LND_TO_STG,2024-02-26 05:07:00.544,
+3,DB_INGESTION,Load data from Stage to CDM,Y,STG_TO_CDM,2024-02-26 05:07:00.544,

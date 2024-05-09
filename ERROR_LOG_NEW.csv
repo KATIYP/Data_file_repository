@@ -1,0 +1,209 @@
+﻿BATCH_ID,TASK_ID,TASK_TYPE,DB_MSTR_ID,FILE_MSTR_ID,ERR_LOG,ERR_CD,ERR_DESC,ERROR_LOAD_TIME,DOMAIN,SUB_DOMAIN,FILE_NAME,TABLE_NAME
+20240502125450,-1,NA,-1,-1,"002003 (42S02): 01b41017-0504-b147-2590-8304e3a0871f: SQL compilation error:
+Object ""LND_TALZENNA_TRX_DATAA"" does not exist or not authorized.","002003 (42S02): 01b41017-0504-b147-2590-8304e3a0871f: SQL compilation error:
+Object ""LND_TALZENNA_TRX_DATAA"" does not exist or not authorized.",Unable to perform standardization ,2024-05-02 12:56:00.136,SALES,,,
+20240502104617,-1,NA,-1,-1,"002003 (42S02): 01b40f97-0504-b147-2590-8304e363dcff: SQL compilation error:
+Object ""LND_TALZENNA_TRX_DATAA"" does not exist or not authorized.","002003 (42S02): 01b40f97-0504-b147-2590-8304e363dcff: SQL compilation error:
+Object ""LND_TALZENNA_TRX_DATAA"" does not exist or not authorized.",Unable to perform standardization ,2024-05-02 10:47:20.207,SALES,,,
+20240502101814,-1,NA,-1,-1,"002003 (42S02): 01b40f7b-0504-b140-2590-8304e356f56f: SQL compilation error:
+Object ""LND_TALZENNA_TRX_DATAA"" does not exist or not authorized.","002003 (42S02): 01b40f7b-0504-b140-2590-8304e356f56f: SQL compilation error:
+Object ""LND_TALZENNA_TRX_DATAA"" does not exist or not authorized.",Unable to perform standardization ,2024-05-02 10:19:19.410,SALES,,,
+20240502085149,-1,NA,-1,-1,"002003 (42S02): 01b40f25-0504-b147-2590-8304e32f3f03: SQL compilation error:
+Object ""LND_TALZENNA_TRX_DATAA"" does not exist or not authorized.","002003 (42S02): 01b40f25-0504-b147-2590-8304e32f3f03: SQL compilation error:
+Object ""LND_TALZENNA_TRX_DATAA"" does not exist or not authorized.",Unable to perform standardization ,2024-05-02 08:53:03.127,SALES,,,
+20240502083958,-1,NA,-1,-1,name ""AuthenticationContext"" is not defined,name ""AuthenticationContext"" is not defined,Unable to ingest the file ????????_Talzenna_TRx_Data.xlsx.xlsx,2024-05-02 08:43:40.897,SALES,,????????_Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240502083958,-1,NA,-1,-1,name ""AuthenticationContext"" is not defined,name ""AuthenticationContext"" is not defined,Unable to ingest the file ????????_Talzenna_TRx_Data.xlsx.xlsx,2024-05-02 08:40:04.525,SALES,,????????_Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240502083958,-1,NA,-1,-1,name ""AuthenticationContext"" is not defined,name ""AuthenticationContext"" is not defined,Unable to ingest the file ????????_Talzenna_NPS_Data.xlsx,2024-05-02 08:40:03.953,SALES,,????????_Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240502083958,-1,NA,-1,-1,name ""AuthenticationContext"" is not defined,name ""AuthenticationContext"" is not defined,Unable to ingest the file ????????_Bosulif_NPS_Data.xlsx,2024-05-02 08:43:40.250,SALES,,????????_Bosulif_NPS_Data.xlsx,LND_BOSULIF_NPS_DATA
+20240502083958,-1,NA,-1,-1,name ""AuthenticationContext"" is not defined,name ""AuthenticationContext"" is not defined,Unable to ingest the file ????????_Bosulif_NPS_Data.xlsx,2024-05-02 08:40:04.076,SALES,,????????_Bosulif_NPS_Data.xlsx,LND_BOSULIF_NPS_DATA
+20240404033704,-1,NA,-1,-1,"no element found: line 1, column 0","no element found: line 1, column 0",Unable to ingest the file ????????_Talzenna_NPS_Data.xlsx,2024-04-04 03:37:10.607,SALES,,????????_Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240403230255,-1,NA,-1,-1,name ""src_obj_table"" is not defined,name ""src_obj_table"" is not defined,Unable to perform UNPIVOT standardization ,2024-04-03 23:21:27.608,SALES,,,
+20240403230255,-1,NA,-1,-1,list index out of range,list index out of range,Unable to perform standardization ,2024-04-03 23:03:54.993,SALES,,,
+20240403230255,-1,NA,-1,-1,list index out of range,list index out of range,Unable to perform standardization ,2024-04-03 23:08:05.121,SALES,,,
+20240403230255,-1,NA,-1,-1,name ""source_object_table"" is not defined,name ""source_object_table"" is not defined,Unable to perform standardization ,2024-04-03 23:25:39.691,SALES,,,
+20240403230255,-1,NA,-1,-1,name ""src_object_table"" is not defined,name ""src_object_table"" is not defined,Unable to perform standardization ,2024-04-03 23:26:49.606,SALES,,,
+20240403230255,-1,NA,-1,-1,name ""src_object_table"" is not defined,name ""src_object_table"" is not defined,Unable to perform standardization ,2024-04-03 23:27:07.870,SALES,,,
+20240403230255,-1,NA,-1,-1,name ""source_obj_table"" is not defined,name ""source_obj_table"" is not defined,Unable to perform UNPIVOT standardization ,2024-04-03 23:28:02.725,SALES,,,
+20240403214202,-1,NA,-1,-1,name ""task_id"" is not defined,name ""task_id"" is not defined,Invalid choice of ingestion functions,2024-04-03 21:57:37.033,SALES,,,
+20240403105557,-1,NA,-1,-1,""DataFrame"" object has no attribute ""concat"",""DataFrame"" object has no attribute ""concat"",Unable to perform OVERLAPPING FULL JOIN standardization ,2024-04-03 10:58:06.740,SALES,,,
+20240402113449,-1,NA,-1,-1,list index out of range,list index out of range,Unable to ingest the file ????????_Bosulif_NPS_Data.xlsx,2024-04-02 11:35:09.584,SALES,,????????_Bosulif_NPS_Data.xlsx,LND_BOSULIF_NPS_DATA
+20240402105014,-1,NA,-1,-1,can only concatenate str (not ""int"") to str,can only concatenate str (not ""int"") to str,Unable to perform OVERLAPPING FULL JOIN standardization ,2024-04-02 11:14:46.143,SALES,,,
+20240402105014,-1,NA,-1,-1,Must specify a fill ""value"" or ""method"".,Must specify a fill ""value"" or ""method"".,Unable to perform OVERLAPPING FULL JOIN standardization ,2024-04-02 11:12:45.789,SALES,,,
+20240402105014,-1,NA,-1,-1,can only concatenate str (not ""int"") to str,can only concatenate str (not ""int"") to str,Unable to perform OVERLAPPING FULL JOIN standardization ,2024-04-02 11:07:15.860,SALES,,,
+20240402105014,-1,NA,-1,-1,can only concatenate str (not ""int"") to str,can only concatenate str (not ""int"") to str,Unable to perform OVERLAPPING FULL JOIN standardization ,2024-04-02 11:03:37.989,SALES,,,
+20240402105014,-1,NA,-1,-1,"Can only pass argument ""on"" OR ""left_index"" and ""right_index"", not a combination of both.","Can only pass argument ""on"" OR ""left_index"" and ""right_index"", not a combination of both.",Unable to perform OVERLAPPING FULL JOIN standardization ,2024-04-02 10:52:53.235,SALES,,,
+20240402085935,-1,NA,-1,-1,""PFZ_HCP_ID"",""PFZ_HCP_ID"",Unable to perform FULL JOIN standardization ,2024-04-02 10:22:27.159,SALES,,,
+20240402085935,-1,NA,-1,-1,"""None of [""PFZ_HCP_ID"", ""NATIONAL_PROV_ID"", ""YM"", ""BRAND_NAME""] are in the columns""","""None of [""PFZ_HCP_ID"", ""NATIONAL_PROV_ID"", ""YM"", ""BRAND_NAME""] are in the columns""",Unable to perform FULL JOIN standardization ,2024-04-02 09:01:58.279,SALES,,,
+20240402064138,-1,NA,-1,-1,"Excel file format cannot be determined, you must specify an engine manually.","Excel file format cannot be determined, you must specify an engine manually.",Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-04-02 07:38:50.918,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240402064138,-1,NA,-1,-1,"cannot insert BRAND_NAME, already exists","cannot insert BRAND_NAME, already exists",Unable to ingest the file Talzenna_TRx_Data.xlsx.xlsx,2024-04-02 06:41:51.498,SALES,,Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240402064138,-1,NA,-1,-1,"cannot insert BRAND_NAME, already exists","cannot insert BRAND_NAME, already exists",Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-04-02 07:29:59.632,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240402064138,-1,NA,-1,-1,"cannot insert BRAND_NAME, already exists","cannot insert BRAND_NAME, already exists",Unable to ingest the file Talzenna_TRx_Data.xlsx.xlsx,2024-04-02 07:29:39.629,SALES,,Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240402064138,-1,NA,-1,-1,"cannot insert BRAND_NAME, already exists","cannot insert BRAND_NAME, already exists",Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-04-02 07:29:18.208,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240402064138,-1,NA,-1,-1,"cannot insert BRAND_NAME, already exists","cannot insert BRAND_NAME, already exists",Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-04-02 06:41:50.853,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240402064138,-1,NA,-1,-1,"cannot insert BRAND_NAME, already exists","cannot insert BRAND_NAME, already exists",Unable to ingest the file Talzenna_TRx_Data.xlsx.xlsx,2024-04-02 07:30:00.152,SALES,,Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240402064138,-1,NA,-1,-1,"cannot insert BRAND_NAME, already exists","cannot insert BRAND_NAME, already exists",Unable to ingest the file Talzenna_TRx_Data.xlsx.xlsx,2024-04-02 07:33:20.849,SALES,,Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240402064138,-1,NA,-1,-1,"cannot insert BRAND_NAME, already exists","cannot insert BRAND_NAME, already exists",Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-04-02 07:33:21.604,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240402064138,-1,NA,-1,-1,"(""Expected bytes, got a ""int"" object"", ""Conversion failed for column BATCH_ID with type object"")","(""Expected bytes, got a ""int"" object"", ""Conversion failed for column BATCH_ID with type object"")",Unable to ingest the file Talzenna_TRx_Data.xlsx.xlsx,2024-04-02 07:38:50.435,SALES,,Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240402064138,-1,NA,-1,-1,"(""Expected bytes, got a ""int"" object"", ""Conversion failed for column BATCH_ID with type object"")","(""Expected bytes, got a ""int"" object"", ""Conversion failed for column BATCH_ID with type object"")",Unable to ingest the file Talzenna_TRx_Data.xlsx.xlsx,2024-04-02 07:40:12.903,SALES,,Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240402064138,-1,NA,-1,-1,"(""Expected bytes, got a ""int"" object"", ""Conversion failed for column BATCH_ID with type object"")","(""Expected bytes, got a ""int"" object"", ""Conversion failed for column BATCH_ID with type object"")",Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-04-02 07:40:12.384,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240402055521,-1,NA,-1,-1,name ""file_df"" is not defined,name ""file_df"" is not defined,Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-04-02 06:26:34.159,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240402055521,-1,NA,-1,-1,"(""-2147024891, System.UnauthorizedAccessException"", ""Attempted to perform an unauthorized operation."", ""403 Client Error: Forbidden for url: https://pfizer.sharepoint.com/sites/BM3.3ContentMetadatadatamodel/_api/Web"")","(""-2147024891, System.UnauthorizedAccessException"", ""Attempted to perform an unauthorized operation."", ""403 Client Error: Forbidden for url: https://pfizer.sharepoint.com/sites/BM3.3ContentMetadatadatamodel/_api/Web"")",Unable to ingest the file ????????_Bosulif_NPS_Data.xlsx,2024-04-02 05:55:27.003,SALES,,????????_Bosulif_NPS_Data.xlsx,LND_BOSULIF_NPS_DATA
+20240402055521,-1,NA,-1,-1,"002025 (42S21): SQL compilation error:
+duplicate column name ""BRAND_NAME""","002025 (42S21): SQL compilation error:
+duplicate column name ""BRAND_NAME""",Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-04-02 06:01:10.858,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240402055521,-1,NA,-1,-1,"(""-2147024891, System.UnauthorizedAccessException"", ""Attempted to perform an unauthorized operation."", ""403 Client Error: Forbidden for url: https://pfizer.sharepoint.com/sites/BM3.3ContentMetadatadatamodel/_api/Web"")","(""-2147024891, System.UnauthorizedAccessException"", ""Attempted to perform an unauthorized operation."", ""403 Client Error: Forbidden for url: https://pfizer.sharepoint.com/sites/BM3.3ContentMetadatadatamodel/_api/Web"")",Unable to ingest the file ????????_Talzenna_TRx_Data.xlsx.xlsx,2024-04-02 05:55:27.388,SALES,,????????_Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240402055521,-1,NA,-1,-1,"002025 (42S21): SQL compilation error:
+duplicate column name ""BRAND_NAME""","002025 (42S21): SQL compilation error:
+duplicate column name ""BRAND_NAME""",Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-04-02 06:13:02.704,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240402055521,-1,NA,-1,-1,"002025 (42S21): SQL compilation error:
+duplicate column name ""BRAND_NAME""","002025 (42S21): SQL compilation error:
+duplicate column name ""BRAND_NAME""",Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-04-02 06:17:30.896,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240402055521,-1,NA,-1,-1,name ""file_df"" is not defined,name ""file_df"" is not defined,Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-04-02 06:23:10.050,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240402055521,-1,NA,-1,-1,name ""file_df"" is not defined,name ""file_df"" is not defined,Unable to ingest the file Talzenna_TRx_Data.xlsx.xlsx,2024-04-02 06:28:51.439,SALES,,Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240402055521,-1,NA,-1,-1,name ""file_df"" is not defined,name ""file_df"" is not defined,Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-04-02 06:28:52.009,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240402055521,-1,NA,-1,-1,name ""file_df"" is not defined,name ""file_df"" is not defined,Unable to ingest the file Talzenna_TRx_Data.xlsx.xlsx,2024-04-02 06:29:18.346,SALES,,Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240402055521,-1,NA,-1,-1,name ""file_df"" is not defined,name ""file_df"" is not defined,Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-04-02 06:35:44.696,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240322043033,-1,NA,-1,-1,"002003 (42S02): SQL compilation error:
+Table ""STG_TALZENNA_NPS_DATA"" does not exist or not authorized.","002003 (42S02): SQL compilation error:
+Table ""STG_TALZENNA_NPS_DATA"" does not exist or not authorized.",Unable to perform FULL JOIN standardization ,2024-03-22 04:31:32.587,SALES,,,
+20240322042345,-1,NA,-1,-1,"002003 (42S02): SQL compilation error:
+Table ""STG_BOSULIF_TRX_DATA"" does not exist or not authorized.","002003 (42S02): SQL compilation error:
+Table ""STG_BOSULIF_TRX_DATA"" does not exist or not authorized.",Unable to perform FULL JOIN standardization ,2024-03-22 04:24:44.609,SALES,,,
+20240322032953,-1,NA,-1,-1,"000904 (42000): SQL compilation error: error line 1 at position 40
+invalid identifier ""BATCH_ID""","000904 (42000): SQL compilation error: error line 1 at position 40
+invalid identifier ""BATCH_ID""",Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-03-22 03:39:44.700,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240322032953,-1,NA,-1,-1,"002003 (42S02): SQL compilation error:
+Table ""STG_BOSULIF_NPS_DATA"" does not exist or not authorized.","002003 (42S02): SQL compilation error:
+Table ""STG_BOSULIF_NPS_DATA"" does not exist or not authorized.",Unable to perform standardization ,2024-03-22 03:42:01.462,SALES,,,
+20240322032953,-1,NA,-1,-1,"000904 (42000): SQL compilation error: error line 1 at position 40
+invalid identifier ""BATCH_ID""","000904 (42000): SQL compilation error: error line 1 at position 40
+invalid identifier ""BATCH_ID""",Unable to ingest the file Talzenna_TRx_Data.xlsx.xlsx,2024-03-22 03:39:44.387,SALES,,Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240322032953,-1,NA,-1,-1,value_name (NPS) cannot match an element in the DataFrame columns.,value_name (NPS) cannot match an element in the DataFrame columns.,Unable to perform UNPIVOT standardization ,2024-03-22 03:30:50.176,SALES,,,
+20240322020011,-1,NA,-1,-1,""YM"",""YM"",Unable to perform FULL JOIN standardization ,2024-03-22 02:02:58.299,SALES,,,
+20240322020011,-1,NA,-1,-1,""YM"",""YM"",Unable to perform FULL JOIN standardization ,2024-03-22 02:04:48.252,SALES,,,
+20240322020011,-1,NA,-1,-1,""YM"",""YM"",Unable to perform FULL JOIN standardization ,2024-03-22 02:04:09.312,SALES,,,
+20240322020011,-1,NA,-1,-1,""YM"",""YM"",Unable to perform FULL JOIN standardization ,2024-03-22 02:02:18.726,SALES,,,
+20240322020011,-1,NA,-1,-1,""YM"",""YM"",Unable to perform FULL JOIN standardization ,2024-03-22 02:01:17.296,SALES,,,
+20240321100845,-1,NA,-1,-1,"002003 (42S02): SQL compilation error:
+Object ""STG_BOSULIF_TRX_DATA"" does not exist or not authorized.","002003 (42S02): SQL compilation error:
+Object ""STG_BOSULIF_TRX_DATA"" does not exist or not authorized.",Unable to get row count ,2024-03-21 10:09:49.373,SALES,,,STG_BOSULIF_TRX_DATA
+20240321063538,-1,NA,-1,-1,""The following ""id_vars"" are not present in the DataFrame: ["" NATIONAL_PROV_ID""]"",""The following ""id_vars"" are not present in the DataFrame: ["" NATIONAL_PROV_ID""]"",Unable to perform UNPIVOT standardization ,2024-03-21 06:36:36.812,SALES,,,
+20240321063538,-1,NA,-1,-1,""The following ""id_vars"" are not present in the DataFrame: ["" NATIONAL_PROV_ID""]"",""The following ""id_vars"" are not present in the DataFrame: ["" NATIONAL_PROV_ID""]"",Unable to perform UNPIVOT standardization ,2024-03-21 06:36:36.350,SALES,,,
+20240321055904,-1,NA,-1,-1,object of type ""NoneType"" has no len(),object of type ""NoneType"" has no len(),Unable to load DB from landing to staging ,2024-03-21 06:31:45.990,SALES,,,
+20240321055904,-1,NA,-1,-1,""list"" object has no attribute ""shape"",""list"" object has no attribute ""shape"",Unable to perform LOWER standardization ,2024-03-21 06:07:21.022,SALES,,,
+20240321055904,-1,NA,-1,-1,""""PFZ_HCP_ID"""",""""PFZ_HCP_ID"""",Unable to perform FULL JOIN standardization ,2024-03-21 06:09:23.212,SALES,,,
+20240321055904,-1,NA,-1,-1,""""PFZ_HCP_ID"""",""""PFZ_HCP_ID"""",Unable to perform FULL JOIN standardization ,2024-03-21 06:11:14.709,SALES,,,
+20240321055904,-1,NA,-1,-1,""""PFZ_HCP_ID"""",""""PFZ_HCP_ID"""",Unable to perform FULL JOIN standardization ,2024-03-21 06:12:03.513,SALES,,,
+20240321055904,-1,NA,-1,-1,""""PFZ_HCP_ID"""",""""PFZ_HCP_ID"""",Unable to perform FULL JOIN standardization ,2024-03-21 06:13:59.471,SALES,,,
+20240321055904,-1,NA,-1,-1,""list"" object is not callable,""list"" object is not callable,Unable to perform FULL JOIN standardization ,2024-03-21 06:18:51.059,SALES,,,
+20240321055904,-1,NA,-1,-1,object of type ""NoneType"" has no len(),object of type ""NoneType"" has no len(),Unable to load DB from landing to staging ,2024-03-21 06:20:44.112,SALES,,,
+20240321052516,-1,NA,-1,-1,"002002 (42710): SQL compilation error:
+Object ""STG_BOSULIF_DATA"" already exists.","002002 (42710): SQL compilation error:
+Object ""STG_BOSULIF_DATA"" already exists.",Unable to load DB from landing to staging ,2024-03-21 05:26:19.997,SALES,,,
+20240321031857,-1,NA,-1,-1,"000904 (42000): SQL compilation error: error line 1 at position 128
+invalid identifier ""TRX""","000904 (42000): SQL compilation error: error line 1 at position 128
+invalid identifier ""TRX""",Unable to load DB from landing to staging ,2024-03-21 03:19:57.123,SALES,,,
+20240321031857,-1,NA,-1,-1,"000904 (42000): SQL compilation error: error line 1 at position 128
+invalid identifier ""TRX""","000904 (42000): SQL compilation error: error line 1 at position 128
+invalid identifier ""TRX""",Unable to load DB from landing to staging ,2024-03-21 03:25:20.302,SALES,,,
+20240321031857,-1,NA,-1,-1,"000904 (42000): SQL compilation error: error line 1 at position 128
+invalid identifier ""TRX""","000904 (42000): SQL compilation error: error line 1 at position 128
+invalid identifier ""TRX""",Unable to load DB from landing to staging ,2024-03-21 03:31:33.005,SALES,,,
+20240321031857,-1,NA,-1,-1,"000904 (42000): SQL compilation error: error line 1 at position 128
+invalid identifier ""TRX""","000904 (42000): SQL compilation error: error line 1 at position 128
+invalid identifier ""TRX""",Unable to load DB from landing to staging ,2024-03-21 05:18:32.993,SALES,,,
+20240320082707,-1,NA,-1,-1,"000904 (42000): SQL compilation error: error line 1 at position 95
+invalid identifier ""BATCH_ID""","000904 (42000): SQL compilation error: error line 1 at position 95
+invalid identifier ""BATCH_ID""",Unable to load DB from landing to staging ,2024-03-20 08:28:09.227,SALES,,,
+20240320071548,-1,NA,-1,-1,"002025 (42S21): SQL compilation error:
+duplicate column name ""GRAND TOTAL""","002025 (42S21): SQL compilation error:
+duplicate column name ""GRAND TOTAL""",Unable to ingest the file Bosulif_TRx_Data.xlsx,2024-03-20 07:46:13.273,SALES,,Bosulif_TRx_Data.xlsx,LND_BOSULIF_TRX_DATA
+20240320071548,-1,NA,-1,-1,"002025 (42S21): SQL compilation error:
+duplicate column name ""GRAND TOTAL""","002025 (42S21): SQL compilation error:
+duplicate column name ""GRAND TOTAL""",Unable to ingest the file Bosulif_TRx_Data.xlsx,2024-03-20 07:43:30.127,SALES,,Bosulif_TRx_Data.xlsx,LND_BOSULIF_TRX_DATA
+20240320071548,-1,NA,-1,-1,"002025 (42S21): SQL compilation error:
+duplicate column name ""GRAND TOTAL""","002025 (42S21): SQL compilation error:
+duplicate column name ""GRAND TOTAL""",Unable to ingest the file Bosulif_TRx_Data.xlsx,2024-03-20 07:33:46.522,SALES,,Bosulif_TRx_Data.xlsx,LND_BOSULIF_TRX_DATA
+20240320071548,-1,NA,-1,-1,""DataFrame"" object has no attribute ""append"",""DataFrame"" object has no attribute ""append"",Unable to ingest the file Bosulif_TRx_Data.xlsx,2024-03-20 07:27:55.764,SALES,,Bosulif_TRx_Data.xlsx,LND_BOSULIF_TRX_DATA
+20240320071548,-1,NA,-1,-1,name ""file_name"" is not defined,name ""file_name"" is not defined,Unable to ingest the file Bosulif_TRx_Data.xlsx,2024-03-20 07:17:06.421,SALES,,Bosulif_TRx_Data.xlsx,LND_BOSULIF_TRX_DATA
+20240319064608,-1,NA,-1,-1,"000904 (42000): SQL compilation error: error line 1 at position 127
+invalid identifier ""YM""","000904 (42000): SQL compilation error: error line 1 at position 127
+invalid identifier ""YM""",Unable to load DB from landing to staging ,2024-03-19 06:47:46.197,SALES,,,
+20240319064608,-1,NA,-1,-1,"000904 (42000): SQL compilation error: error line 1 at position 127
+invalid identifier ""YM""","000904 (42000): SQL compilation error: error line 1 at position 127
+invalid identifier ""YM""",Unable to load DB from landing to staging ,2024-03-19 06:51:15.102,SALES,,,
+20240319064608,-1,NA,-1,-1,"000904 (42000): SQL compilation error: error line 1 at position 138
+invalid identifier ""NPS""","000904 (42000): SQL compilation error: error line 1 at position 138
+invalid identifier ""NPS""",Unable to load DB from landing to staging ,2024-03-19 06:52:04.116,SALES,,,
+20240319063107,-1,NA,-1,-1,""list"" object has no attribute ""replace"",""list"" object has no attribute ""replace"",Unable to perform standardization ,2024-03-19 06:39:44.418,SALES,,,
+20240319063107,-1,NA,-1,-1,"""The following ""id_vars"" are not present in the DataFrame: [""""NATIONAL_PROV_ID"""", """"PFZ_HCP_ID""""]""","""The following ""id_vars"" are not present in the DataFrame: [""""NATIONAL_PROV_ID"""", """"PFZ_HCP_ID""""]""",Unable to perform UNPIVOT standardization ,2024-03-19 06:32:42.128,SALES,,,
+20240319063107,-1,NA,-1,-1,"""The following ""id_vars"" are not present in the DataFrame: [""""NATIONAL_PROV_ID"""", """"PFZ_HCP_ID""""]""","""The following ""id_vars"" are not present in the DataFrame: [""""NATIONAL_PROV_ID"""", """"PFZ_HCP_ID""""]""",Unable to perform UNPIVOT standardization ,2024-03-19 06:34:05.458,SALES,,,
+20240319041704,-1,NA,-1,-1,""["",""["",Unable to perform LOWER standardization ,2024-03-19 04:18:42.204,SALES,,,
+20240318085318,-1,NA,-1,-1,name ""bucket_object_name"" is not defined,name ""bucket_object_name"" is not defined,Unable to ingest the file Talzenna_TRx_Data.xlsx.xlsx,2024-03-18 08:53:29.567,SALES,,Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240318085318,-1,NA,-1,-1,name ""bucket_object_name"" is not defined,name ""bucket_object_name"" is not defined,Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-03-18 08:53:29.988,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240318083443,-1,NA,-1,-1,name ""file_contents_df"" is not defined,name ""file_contents_df"" is not defined,Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-03-18 08:34:50.180,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240318083443,-1,NA,-1,-1,name ""file_contents_df"" is not defined,name ""file_contents_df"" is not defined,Unable to ingest the file Talzenna_TRx_Data.xlsx.xlsx,2024-03-18 08:34:49.908,SALES,,Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240318072249,-1,NA,-1,-1,can only concatenate str (not ""int"") to str,can only concatenate str (not ""int"") to str,Unable to ingest the file Bosulif_TRx_Data.xlsx,2024-03-18 08:03:52.735,SALES,,Bosulif_TRx_Data.xlsx,LND_BOSULIF_TRX_DATA
+20240318072249,-1,NA,-1,-1,202201,202201,Unable to ingest the file Bosulif_TRx_Data.xlsx,2024-03-18 07:23:56.507,SALES,,Bosulif_TRx_Data.xlsx,LND_BOSULIF_TRX_DATA
+20240318072249,-1,NA,-1,-1,202201,202201,Unable to ingest the file Bosulif_TRx_Data.xlsx,2024-03-18 07:29:25.164,SALES,,Bosulif_TRx_Data.xlsx,LND_BOSULIF_TRX_DATA
+20240318072249,-1,NA,-1,-1,can only concatenate str (not ""int"") to str,can only concatenate str (not ""int"") to str,Unable to ingest the file Bosulif_TRx_Data.xlsx,2024-03-18 07:46:38.619,SALES,,Bosulif_TRx_Data.xlsx,LND_BOSULIF_TRX_DATA
+20240318072249,-1,NA,-1,-1,"000904 (42000): SQL compilation error: error line 1 at position 127
+invalid identifier """"`202201`""""","000904 (42000): SQL compilation error: error line 1 at position 127
+invalid identifier """"`202201`""""",Unable to ingest the file Bosulif_TRx_Data.xlsx,2024-03-18 08:06:07.086,SALES,,Bosulif_TRx_Data.xlsx,LND_BOSULIF_TRX_DATA
+20240318072249,-1,NA,-1,-1,can only concatenate str (not ""int"") to str,can only concatenate str (not ""int"") to str,Unable to ingest the file Bosulif_TRx_Data.xlsx,2024-03-18 07:50:34.191,SALES,,Bosulif_TRx_Data.xlsx,LND_BOSULIF_TRX_DATA
+20240318072249,-1,NA,-1,-1,can only concatenate str (not ""int"") to str,can only concatenate str (not ""int"") to str,Unable to ingest the file Bosulif_TRx_Data.xlsx,2024-03-18 07:41:23.199,SALES,,Bosulif_TRx_Data.xlsx,LND_BOSULIF_TRX_DATA
+20240318063817,-1,NA,-1,-1,202305,202305,Unable to ingest the file Bosulif_NPS_Data.xlsx,2024-03-18 06:48:05.775,SALES,,Bosulif_NPS_Data.xlsx,LND_BOSULIF_NPS_DATA
+20240318063817,-1,NA,-1,-1,202201,202201,Unable to ingest the file Bosulif_TRx_Data.xlsx,2024-03-18 06:39:25.827,SALES,,Bosulif_TRx_Data.xlsx,LND_BOSULIF_TRX_DATA
+20240318062226,-1,NA,-1,-1,202203,202203,Unable to ingest the file Bosulif_TRx_Data.xlsx,2024-03-18 06:23:39.644,SALES,,Bosulif_TRx_Data.xlsx,LND_BOSULIF_TRX_DATA
+20240318060746,-1,NA,-1,-1,"000904 (42000): SQL compilation error: error line 1 at position 95
+invalid identifier """"UNNAMED: 0""""","000904 (42000): SQL compilation error: error line 1 at position 95
+invalid identifier """"UNNAMED: 0""""",Unable to ingest the file Bosulif_TRx_Data.xlsx,2024-03-18 06:09:12.018,SALES,,Bosulif_TRx_Data.xlsx,LND_BOSULIF_TRX_DATA
+20240318040231,-1,NA,-1,-1,202201,202201,Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-03-18 04:02:39.177,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240318040231,-1,NA,-1,-1,202201,202201,Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-03-18 04:14:02.850,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240318040231,-1,NA,-1,-1,202201,202201,Unable to ingest the file Talzenna_TRx_Data.xlsx.xlsx,2024-03-18 04:04:07.357,SALES,,Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240318040231,-1,NA,-1,-1,202201,202201,Unable to ingest the file Talzenna_TRx_Data.xlsx.xlsx,2024-03-18 04:05:59.696,SALES,,Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240318040231,-1,NA,-1,-1,202201,202201,Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-03-18 04:04:07.144,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240318013529,-1,NA,-1,-1,""_io.BytesIO"" object has no attribute ""get"",""_io.BytesIO"" object has no attribute ""get"",Unable to ingest the file Talzenna_TRx_Data.xlsx.xlsx,2024-03-18 03:27:41.184,SALES,,Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240318013529,-1,NA,-1,-1,"(""Expected bytes, got a ""int"" object"", ""Conversion failed for column Unnamed: 2 with type object"")","(""Expected bytes, got a ""int"" object"", ""Conversion failed for column Unnamed: 2 with type object"")",Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-03-18 03:42:40.713,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240318013529,-1,NA,-1,-1,""_io.BytesIO"" object has no attribute ""get"",""_io.BytesIO"" object has no attribute ""get"",Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-03-18 03:36:47.868,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240318013529,-1,NA,-1,-1,argument of type ""File"" is not iterable,argument of type ""File"" is not iterable,Unable to ingest the file Bosulif_NPS_Data.xlsx,2024-03-18 02:59:27.549,SALES,,Bosulif_NPS_Data.xlsx,LND_BOSULIF_NPS_DATA
+20240318013529,-1,NA,-1,-1,An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist,An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist,Unable to ingest the file ????????_Talzenna_TRx_Data.xlsx.xlsx,2024-03-18 01:35:35.103,SALES,,????????_Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240318013529,-1,NA,-1,-1,"001003 (42000): SQL compilation error:
+syntax error line 1 at position 220 unexpected ""/"".
+syntax error line 1 at position 341 unexpected ""/"".
+syntax error line 1 at position 461 unexpected ""/"".","001003 (42000): SQL compilation error:
+syntax error line 1 at position 220 unexpected ""/"".
+syntax error line 1 at position 341 unexpected ""/"".
+syntax error line 1 at position 461 unexpected ""/"".",Unable to update Audit Log table ,2024-03-18 02:43:04.133,SALES,,,
+20240318013529,-1,NA,-1,-1,An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist,An error occurred (NoSuchBucket) when calling the ListObjectsV2 operation: The specified bucket does not exist,Unable to ingest the file ????????_Bosulif_TRx_Data.xlsx,2024-03-18 01:35:35.648,SALES,,????????_Bosulif_TRx_Data.xlsx,LND_BOSULIF_TRX_DATA
+20240318013529,-1,NA,-1,-1,"001003 (42000): SQL compilation error:
+syntax error line 1 at position 221 unexpected ""/"".
+syntax error line 1 at position 342 unexpected ""/"".
+syntax error line 1 at position 462 unexpected ""/"".","001003 (42000): SQL compilation error:
+syntax error line 1 at position 221 unexpected ""/"".
+syntax error line 1 at position 342 unexpected ""/"".
+syntax error line 1 at position 462 unexpected ""/"".",Unable to update Audit Log table ,2024-03-18 02:56:20.419,SALES,,,
+20240318013529,-1,NA,-1,-1,argument of type ""File"" is not iterable,argument of type ""File"" is not iterable,Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-03-18 03:02:10.539,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240318013529,-1,NA,-1,-1,""_io.BytesIO"" object has no attribute ""get"",""_io.BytesIO"" object has no attribute ""get"",Unable to ingest the file Talzenna_TRx_Data.xlsx.xlsx,2024-03-18 03:36:47.312,SALES,,Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240318013529,-1,NA,-1,-1,"(""Expected bytes, got a ""int"" object"", ""Conversion failed for column Unnamed: 2 with type object"")","(""Expected bytes, got a ""int"" object"", ""Conversion failed for column Unnamed: 2 with type object"")",Unable to ingest the file Talzenna_TRx_Data.xlsx.xlsx,2024-03-18 03:25:26.056,SALES,,Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240318013529,-1,NA,-1,-1,"(""Expected bytes, got a ""int"" object"", ""Conversion failed for column Unnamed: 2 with type object"")","(""Expected bytes, got a ""int"" object"", ""Conversion failed for column Unnamed: 2 with type object"")",Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-03-18 03:15:31.378,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240318013529,-1,NA,-1,-1,""File"" object has no attribute ""string"",""File"" object has no attribute ""string"",Unable to ingest the file Bosulif_TRx_Data.xlsx,2024-03-18 03:13:23.625,SALES,,Bosulif_TRx_Data.xlsx,LND_BOSULIF_TRX_DATA
+20240318013529,-1,NA,-1,-1,argument of type ""File"" is not iterable,argument of type ""File"" is not iterable,Unable to ingest the file Talzenna_TRx_Data.xlsx.xlsx,2024-03-18 02:59:27.389,SALES,,Talzenna_TRx_Data.xlsx.xlsx,LND_TALZENNA_TRX_DATA
+20240318013529,-1,NA,-1,-1,argument of type ""File"" is not iterable,argument of type ""File"" is not iterable,Unable to ingest the file Bosulif_TRx_Data.xlsx,2024-03-18 03:04:44.653,SALES,,Bosulif_TRx_Data.xlsx,LND_BOSULIF_TRX_DATA
+20240318013529,-1,NA,-1,-1,""File"" object has no attribute ""lower"",""File"" object has no attribute ""lower"",Unable to ingest the file Talzenna_NPS_Data.xlsx,2024-03-18 03:12:19.133,SALES,,Talzenna_NPS_Data.xlsx,LND_TALZENNA_NPS_DATA
+20240312024200,-1,NA,-1,-1,250001: Could not connect to Snowflake backend after 2 attempt(s).Aborting,250001: Could not connect to Snowflake backend after 2 attempt(s).Aborting,Unable to get row count ,2024-03-12 02:45:13.178,SALES,,,LND_BOSULIF_NPS
+20240312024200,-1,NA,-1,-1,250001: Could not connect to Snowflake backend after 2 attempt(s).Aborting,250001: Could not connect to Snowflake backend after 2 attempt(s).Aborting,Unable to fetch values from DB master table for the specified domain,2024-03-12 03:21:15.904,SALES,,,
+20240312024200,-1,NA,-1,-1,250001: Could not connect to Snowflake backend after 1 attempt(s).Aborting,250001: Could not connect to Snowflake backend after 1 attempt(s).Aborting,Unable to generate Audit Log ID ,2024-03-12 02:51:14.264,SALES,,,
+20240311091016,-1,NA,-1,-1,"002003 (42S02): SQL compilation error:
+Object ""LND_BOSULIF_MPS"" does not exist or not authorized.","002003 (42S02): SQL compilation error:
+Object ""LND_BOSULIF_MPS"" does not exist or not authorized.",Unable to perform standardization ,2024-03-11 09:10:45.421,SALES,,,
+20240311085558,-1,NA,-1,-1,update_audit_log() missing 1 required positional argument: ""audit_id"",update_audit_log() missing 1 required positional argument: ""audit_id"",Unable to load DB from landing to staging ,2024-03-11 08:56:31.922,SALES,,,
+20240311085558,-1,NA,-1,-1,update_audit_log() missing 1 required positional argument: ""audit_id"",update_audit_log() missing 1 required positional argument: ""audit_id"",Unable to load DB from landing to staging ,2024-03-11 08:58:32.850,SALES,,,
+20240311082641,-1,NA,-1,-1,name ""threadLock"" is not defined,name ""threadLock"" is not defined,Unable to update Audit Log table ,2024-03-11 08:26:52.526,SALES,,,
+20240311075401,-1,NA,-1,-1,File not present at the location,File not present at the location,Unable to ingest the file SRC_INLYTA_????????.csv,2024-03-11 07:54:08.695,SALES,,SRC_INLYTA_????????.csv,LND_INLYTA_TRX
+20240311075028,-1,NA,-1,-1,File not present at the location,File not present at the location,Unable to ingest the file SRC_INLYTA_????????.csv,2024-03-11 07:51:12.676,SALES,,SRC_INLYTA_????????.csv,LND_INLYTA_TRX
+20240311075028,-1,NA,-1,-1,File not present at the location,File not present at the location,Unable to ingest the file SRC_INLYTA_????????.csv,2024-03-11 07:50:35.880,SALES,,SRC_INLYTA_????????.csv,LND_INLYTA_TRX
+20240311074748,-1,NA,-1,-1,File not present at the location,File not present at the location,Unable to ingest the file SRC_INLYTA_????????.csv,2024-03-11 07:47:57.202,SALES,,SRC_INLYTA_????????.csv,LND_INLYTA_TRX
+20240311074115,-1,NA,-1,-1,File not present at the location,File not present at the location,Unable to ingest the file SRC_INLYTA_????????.csv,2024-03-11 07:41:21.886,SALES,,SRC_INLYTA_????????.csv,LND_INLYTA_TRX
+20240311073201,-1,NA,-1,-1,File not present at the location,File not present at the location,Unable to ingest the file SRC_INLYTA_????????.csv,2024-03-11 07:32:07.327,SALES,,SRC_INLYTA_????????.csv,LND_INLYTA_TRX
+20240307061928,-1,NA,-1,-1,File not present at the location,File not present at the location,Unable to ingest the file SRC_VYNDAMAX_PAP_INCL_SALES_????????.csv,2024-03-07 06:19:34.807,SALES,,SRC_VYNDAMAX_PAP_INCL_SALES_????????.csv,LND_VYNDAMAX_PAP_INCL_SALES_SF
